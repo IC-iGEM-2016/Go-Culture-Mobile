@@ -1,0 +1,135 @@
+[
+  {
+    "id": 0,
+    "product": "Yogurt",
+    "description": "",
+    "slug": "yogurt",
+    "created": false
+  },
+  {
+    "id": 1,
+    "product": "Probiotic Yogurt",
+    "description": "",
+    "slug": "probiotic_yogurt",
+    "created": false
+  },
+  {
+    "id": 2,
+    "product": "Blue Cheese",
+    "description": "",
+    "slug": "blue_cheese",
+    "created": false
+  },
+  {
+    "id": 3,
+    "product": "Swiss Cheese",
+    "description": "",
+    "slug": "swiss_cheese",
+    "created": false
+  },
+  {
+    "id": 4,
+    "product": "Sourdough Bread",
+    "description": "",
+    "slug": "bread",
+    "created": false
+  },
+  {
+    "id": 5,
+    "product": "Probiotic",
+    "description": "",
+    "slug": "probiotic",
+    "created": false
+  },
+  {
+    "id": 6,
+    "product": "Gut Flora",
+    "description": "",
+    "slug": "gut_flora",
+    "created": false
+  },
+  {
+    "id": 7,
+    "product": "Cellulose Overcoat",
+    "description": "",
+    "slug": "coat",
+    "created": false
+  },
+  {
+    "id": 8,
+    "product": "Glowing Cellulose",
+    "description": "",
+    "slug": "glowing_bow",
+    "created": false
+  },
+  {
+    "id": 9,
+    "product": "Aquarium Water Filter",
+    "description": "",
+    "slug": "aquarium",
+    "created": false
+  },
+  {
+    "id": 10,
+    "product": "Antibiotics",
+    "description": "",
+    "slug": "antibiotics",
+    "created": false
+  },
+  {
+    "id": 11,
+    "product": "Aquaponic Ecosystem",
+    "description": "",
+    "slug": "aquaponics",
+    "created": false
+  },
+  {
+    "id": 12,
+    "product": "Biofuel",
+    "description": "",
+    "slug": "biofuels",
+    "created": false
+  },
+  {
+    "id": 13,
+    "product": "Vitamin B12",
+    "description": "",
+    "slug": "vitamin_b12",
+    "created": false
+  },
+  {
+    "id": 14,
+    "product": "Magnetic Infinity Lamp",
+    "description": "",
+    "slug": "lamp",
+    "created": false
+  },
+  {
+    "id": 15,
+    "product": "Nanomagnets",
+    "description": "",
+    "slug": "yogurt",
+    "created": false
+  },
+  {
+    "id": 16,
+    "product": "Artemisinin",
+    "description": "",
+    "slug": "artemisinin",
+    "created": false
+  },
+  {
+    "id": 17,
+    "product": "iGEM Chassis Top 3",
+    "description": "",
+    "slug": "top3",
+    "created": false
+  },
+  {
+    "id": 18,
+    "product": "Lamp",
+    "description": "",
+    "slug": "lamp",
+    "created": false
+  }
+]

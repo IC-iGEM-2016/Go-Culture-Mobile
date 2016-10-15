@@ -1,0 +1,97 @@
+[
+  {
+    "id": 0,
+    "level": "Carter's Levels/Menu",
+    "unlocked": false,
+  },
+  {
+    "id": 1,
+    "level": "Carter's Levels/Level 1 - Kitchen",
+    "unlocked": false,
+  },
+  {
+    "id": 2,
+    "level": "Carter's Levels/Level 2 - Kitchen",
+    "unlocked": false,
+  },
+  {
+    "id": 3,
+    "level": "Carter's Levels/Level 3 - Kitchen",
+    "unlocked": false,
+  },
+  {
+    "id": 4,
+    "level": "Carys's Levels/Forest Levels/Level 1 - Forest",
+    "unlocked": false,
+  },
+  {
+    "id": 5,
+    "level": "Carys's Levels/Forest Levels/Level 2 - Forest",
+    "unlocked": false,
+  },
+  {
+    "id": 6,
+    "level": "Carys's Levels/Forest Levels/Level 3 - Forest",
+    "unlocked": false,
+  },
+  {
+    "id": 7,
+    "level": "Lisa's Levels/Factory/Factory",
+    "unlocked": false,
+  },
+  {
+    "id": 8,
+    "level": "Lisa's Levels/Factory/Factory2",
+    "unlocked": false,
+  },
+  {
+    "id": 9,
+    "level": "Lisa's Levels/Factory/Factory3",
+    "unlocked": false,
+  },
+  {
+    "id": 10,
+    "level": "Carys's Levels/Gut Levels/Level 1 - Gut",
+    "unlocked": false,
+  },
+  {
+    "id": 11,
+    "level": "Carys's Levels/Gut Levels/Level 2 - Gut",
+    "unlocked": false,
+  },
+  {
+    "id": 12,
+    "level": "Carys's Levels/Gut Levels/Level 3 - Gut",
+    "unlocked": false,
+  },
+  {
+    "id": 13,
+    "level": "test",
+    "unlocked": false,
+  },
+  {
+    "id": 14,
+    "level": "Game Scenes + Block (Ocean)/Ocean1",
+    "unlocked": false,
+  },
+  {
+    "id": 15,
+    "level": "Game Scenes + Block (Ocean)/Ocean2",
+    "unlocked": false,
+  },
+  {
+    "id": 16,
+    "level": "Game Scenes + Block (Ocean)/Ocean3",
+    "unlocked": false,
+  },
+  {
+    "id": 17,
+    "level": "Carys's Levels/Lava Levels/Level 1 - Lava",
+    "unlocked": false,
+  },
+  {
+    "id": 18,
+    "level": "Carys's Levels/Lava Levels/Level 2 - Lava",
+    "unlocked": false,
+  }
+]
